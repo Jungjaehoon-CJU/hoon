@@ -12,7 +12,7 @@ public class Test extends JFrame implements ActionListener {
 
     public Test() {
       
-        setTitle("계산기");
+        setTitle("2021011993 정재훈 계산기");
         setSize(300, 400);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
